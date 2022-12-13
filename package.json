@@ -20,7 +20,7 @@
   "homepage": "https://github.com/vmatveev95/Send-Text-Message-Exercise#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-handlebars": "^3.1.0",
     "twilio": "^3.39.3"
   }
